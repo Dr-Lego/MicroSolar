@@ -59,7 +59,7 @@ max_altitude_error: 0.0379 degrees
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE.md).
+This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contributing
 
